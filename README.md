@@ -5,7 +5,7 @@ JAVA in HADOOP - DISTRIBUTED SYSTEMS
 - [HADOOP - LOGPROC](http://nncsang.github.io/Hadoop-LogProc/). Main skills: _Java, Distribute Algorithms for join algorithms_
 - [HADOOP - MRCUBE](http://nncsang.github.io/Hadoop-Cube-MRCube/). Main skills: _Java, Distribute Algorithms for CUBE computation_
 - [HADOOP - CUBE IN REDUCER GROUPING](http://nncsang.github.io/Hadoop-Cube-In-Reducer-Grouping/). Main skills: _Java, Distribute Algorithms for CUBE & ROLL-UP computation_
-- [HADOOP - CUBE BOTTOM-UP COMPUTATION](http://nncsang.github.io/Hadoop-Cube-Bottom-Up-Computation/). Main skills: _Java, Distribute Algorithms for CUBE computation_
+- [HADOOP - CUBE BOTTOM-UP COMPUTATION](http://nncsang.github.io/BUC/). Main skills: _Java, Distribute Algorithms for CUBE computation_
 
 WEB
 -----------------
