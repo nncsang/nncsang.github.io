@@ -11,7 +11,7 @@ WEB
 -----------------
 - [ANGULARJS - INFORY DASHBOARD](http://nncsang.github.io/Infory-Dashboard/). Main skills: _AngularJS, RESTFul API, JavaScript, HTML 5.0, CSS, UI, HighChart, Photoshop_
 - [HTML5 - MASTER CHEF](http://nncsang.github.io/MasterChef/). Main skills: _JavaScript, HTML 5.0, CSS, UI, HighChart_
-- [HTML5 - WEBINT LAB](http://nncsang.github.io/Web-HTML5-Lab/). Main skills: _JavaScript, HTML 5.0, CSS, UI_
+- [HTML5 - WEBINT LAB](http://nncsang.github.io/SBlog/). Main skills: _JavaScript, HTML 5.0, CSS, UI_
 - [MOBILE MIDDLEWARE - KUROGO](http://nncsang.github.io/Kurogo/). Main skills: _PHP, HTML 5.0, CSS_
 
 C/C++ in INTELLIGENT SYSTEMS 
